@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace Ride share
+namespace Ride_share
 {
     class Program
     {
